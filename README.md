@@ -24,11 +24,11 @@
      --upsample
 
    local usage: (only for reference)
-python "E:\constraint2021_implement\main3.py" `
->>   --train_csv "E:\constraint2021_implement\train_clean.csv" `
->>   --val_csv   "E:\constraint2021_implement\val_clean.csv" `
->>   --test_csv  "E:\constraint2021_implement\test_clean.csv" `
->>   --fasttext_vec "E:\constraint2021_implement\cc.hi.300.vec" `
->>   --outdir "E:\constraint2021_implement\outputs"
+python "E:\constraint2021_implement\main3.py" 
+   --train_csv "E:\constraint2021_implement\train_clean.csv" 
+   --val_csv   "E:\constraint2021_implement\val_clean.csv" 
+   --test_csv  "E:\constraint2021_implement\test_clean.csv" 
+   --fasttext_vec "E:\constraint2021_implement\cc.hi.300.vec" 
+   --outdir "E:\constraint2021_implement\outputs"
 
 Project runs, yay!
