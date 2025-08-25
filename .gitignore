@@ -12,3 +12,4 @@
 !train_clean.csv
 !val_clean.csv
 !outputs3/
+!requirements.txt
