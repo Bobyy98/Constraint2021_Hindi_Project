@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But keep these files/folders
+!.gitignore
+!Constraint_Hindi_Test.xlsx
+!Constraint_Hindi_Train.xlsx
+!Constraint_Hindi_Valid.xlsx
+!main3.py
+!pre_preprocess.py
+!test_clean.csv
+!train_clean.csv
+!val_clean.csv
+!outputs3/
